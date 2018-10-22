@@ -5,7 +5,11 @@ h1{
     margin: auto;
     text-align-last: center;
 }
-table{
-    height: 100%;
-    width: 50px;
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align-last: center;
 }
