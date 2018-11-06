@@ -13,9 +13,9 @@ body{
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
-    background-size: contain;
+    background-size:auto;
     border-radius: 20px;
 }
 
@@ -26,10 +26,9 @@ img {
   width: 50%;
   background-color: grey;
   margin-bottom: 20px;
-  border-style: solid;
-  border-color: white;
-  border-width: 10px;
+  border-style: dashed;
   border-radius: 20px;
+  border-color: silver ;
 }
 
 .container {
@@ -46,14 +45,30 @@ img {
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inherit;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+}
+
+.button2 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inherit;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
 }
-
 h2{
     font-family: 'Rakkas';
     color:white;
     font-size: 20px;
+    text-align: center;
 }
