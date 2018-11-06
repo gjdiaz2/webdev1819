@@ -1,20 +1,59 @@
 header {
     text-align: center;
-    font-size: 30px;
+    font-size: 100px;
     padding: 25px 50px 25px 50px;
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px #aaa;
 }
+
 body{
-    background-image: 'IMG_3244.gif' ;
+    background-image: url("images/IMG_4.jpg");
     background-position: center;
     background-size: cover;
 }
-.polaroid {
-  width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
+
+img {
+    width: 100%;
+    height: auto;
+    background-size: contain;
+    border-radius: 20px;
 }
+
+.polaroid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: grey;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  border-radius: 20px;
+}
+
 .container {
   text-align: center;
-  padding: 10px 20px;
+  padding: 10px 10px;
+  font-family: 'Poor Story', cursive;
+  font-size: 20px;
+}
+
+.button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+h2{
+    font-family: 'Rakkas';
+    color:white;
+    font-size: 20px;
 }
