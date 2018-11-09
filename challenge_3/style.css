@@ -33,9 +33,7 @@ img {
 
 .container {
   text-align: center;
-  padding: 10px 10px;
   font-family: 'Poor Story', cursive;
-  font-size: 20px;
 }
 
 .button {
@@ -62,7 +60,7 @@ img {
     text-align: center;
     text-decoration: none;
     display: inherit;
-    font-size: 16px;
+    font-size: 20px;
     margin: 4px 2px;
     cursor: pointer;
 }

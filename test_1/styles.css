@@ -1,0 +1,71 @@
+h1{
+    color: orange;
+}
+span{
+    font-style: normal;
+    font-size: medium;
+    font-weight: normal;
+    text-decoration: line-through
+}
+body {
+    font-family: Helvetica;
+}
+.feature{
+    color: red;
+    font-style: italic;
+}
+a:link {
+    text-decoration: none;
+}
+.main {
+    background-color: lightblue;
+    box-shadow: 10px 10px 10px 10px black;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+}
+emyellow{
+    background-color: yellow;
+}
+section{
+    padding: 0px 12px 0px 12px;
+}
+.greenbackgorund{
+    border-spacing: 3px;
+    border-color: green;
+    border-style: dotted;
+
+}
+.noindent{
+    text-indent: -40px;
+}
+.pink{
+    background-color: pink;
+}
+.aqua{
+    background-color: aquamarine;
+}
+.lemon{
+    background-color: #fff44f ;
+}
+.grape{
+    background-color: #6f2da8;
+}
+.penguin{
+    background-image: url("http://goo.gl/e2x4ZK");
+    background-size: auto;
+    background-repeat: no-repeat;
+    border-spacing: 3px;
+    border-color: green;
+    border-style: dotted;
+    padding-bottom: 180px;
+}
+.combine{
+    border-spacing: 3px;
+    border-color: green;
+    border-style: dotted;
+    
+}
+.inline{
+    display: inline-block;
+    
+}
