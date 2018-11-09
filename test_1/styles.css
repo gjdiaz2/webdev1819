@@ -27,9 +27,11 @@ emyellow{
     background-color: yellow;
 }
 section{
-    padding: 0px 12px 0px 12px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 .greenbackgorund{
+    
     border-spacing: 3px;
     border-color: green;
     border-style: dotted;
