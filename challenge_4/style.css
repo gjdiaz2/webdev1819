@@ -1,6 +1,10 @@
 body{
-    background-color: #FFCE00; 
+    background-color: #0375B4; 
 }
 .card{
-    background-color: #0375B4;
+    background-color: #FFCE00;
+}
+col-lg-4{
+    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Cuprum', sans-serif;
 }
