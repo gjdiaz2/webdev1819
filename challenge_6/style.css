@@ -1,0 +1,19 @@
+.product{
+      background-color: #e62e00;
+      padding: 50px;
+      font-family: 'Merriweather', serif;
+      
+}
+.productlink{
+      background-color: #4d79ff;
+      font-family: 'Merriweather', serif;
+      text-align: center;
+}
+.copyright{
+      background-color: #535353;
+      text-align: center;
+      
+}
+.format{
+      text-align: center;
+}
